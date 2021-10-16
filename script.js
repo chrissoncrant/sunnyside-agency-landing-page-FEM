@@ -1,6 +1,6 @@
 const hamburger = document.querySelector(".hamburger");
 
-const navContainer = document.querySelector(".stupid-nav-container");
+const navContainer = document.querySelector(".nav-container");
 
 let displayCheck = 0;
 
