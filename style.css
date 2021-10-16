@@ -285,6 +285,8 @@ footer .social-icons {
 
 .attribution { 
     font-size: 11px; 
+    font-family: 'Barlow', sans-serif;
+    color:rgba(0, 0, 0, 0.637);
     text-align: center; 
     padding-bottom: 1em;
 }
